@@ -4,14 +4,14 @@ email:       marcmcsarri@gmail.com
 author:      Marc Sarri
 description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
 baseurl:     ""
-url:         "https://kruid.github.io"
+url:         "https://kruid.github.io/"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
  - contact.html
  #- archive.md #TODO
 
-google_analytics:
+# google_analytics:
 
 # Optional features
 animated:             true
@@ -34,14 +34,14 @@ dev_username: dev_user
 # Post sharing icons
 show_sharing_icons: false
 # Change to 'true' to enable individual icons
-share_facebook: true
+share_facebook: false
 share_twitter: true
-share_googleplus: true
+share_googleplus: false
 share_linkedin: true
 share_digg: true
 share_tumblr: true
 share_reddit: true
-share_stumbleupon: true
+share_stumbleupon: false
 share_hackernews: true
 
 text:
