@@ -27,7 +27,7 @@ body {
 }
 .navbar-default {
   background-color: #e0f8fa;
-  border-color: #e0f8fa;
+  border-color: #e0f8;
 }
 /* Navbar home icon */
 .navbar-default .navbar-brand {
@@ -92,7 +92,7 @@ body {
 
 .container {
   width: auto;
-  max-width: 800px;
+  max-width: 1200px;
   text-align: center;
 }
 .container .text-muted {
