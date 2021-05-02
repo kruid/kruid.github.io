@@ -27,6 +27,7 @@ body {
 }
 .navbar-default {
   background-color: #e0f8fa;
+  border-color: #e0f8fa;
 }
 /* Navbar home icon */
 .navbar-default .navbar-brand {
